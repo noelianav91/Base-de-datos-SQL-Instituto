@@ -1,0 +1,178 @@
+idAsignatura;Curso;Etapa Formativa;Nombre;Caracter;Horas;Profesor
+BG001;1A;ESO;Biologia y Geologia;Obligatorio;3;HCM
+GH001;1A;ESO;Geografia e Historia;Obligatorio;3;TMS
+EF001;1A;ESO;Educacion Fisica;Obligatorio;3;PLH
+LL001;1A;ESO;Lengua Castellana y Literatura;Obligatorio;4;ATT
+MA001;1A;ESO;Matematicas;Obligatorio;4;CTS
+MU001;1A;ESO;Musica;Obligatorio;3;EGM
+IN001;1A;ESO;Primera Lengua Extranjera-Ingles;Obligatorio;4;GVR
+FR001;1A;ESO;Segunda Lengua Extranjera-Frances;Obligatorio;2;ALR
+OD001;1A;ESO;Oratoria y Debate;Optativa;2;PGR
+CC001;1A;ESO;Cultura Clasica;Optativa;2;TMS
+CR001;1A;ESO;Computacion y Robotica;Optativa;2;ASD
+TT001;1A;ESO;Proyecto interdisciplinar: Taller de Teatro;Optativa;2;PGR
+BG001;1B;ESO;Biologia y Geologia;Obligatorio;3;HCM
+GH001;1B;ESO;Geografia e Historia;Obligatorio;3;TMS
+EF001;1B;ESO;Educacion Fisica;Obligatorio;3;PLH
+LL001;1B;ESO;Lengua Castellana y Literatura;Obligatorio;4;ATT
+MA001;1B;ESO;Matematicas;Obligatorio;4;CTS
+MU001;1B;ESO;Musica;Obligatorio;3;EGM
+IN001;1B;ESO;Primera Lengua Extranjera-Ingles;Obligatorio;4;GVR
+FR001;1B;ESO;Segunda Lengua Extranjera-Frances;Obligatorio;2;ALR
+OD001;1B;ESO;Oratoria y Debate;Optativa;2;PGR
+CC001;1B;ESO;Cultura Clasica;Optativa;2;TMS
+CR001;1B;ESO;Computacion y Robotica;Optativa;2;ASD
+TT001;1B;ESO;Proyecto interdisciplinar: Taller de Teatro;Optativa;2;PGR
+BG001;1C;ESO;Biologia y Geologia;Obligatorio;3;HCM
+GH001;1C;ESO;Geografia e Historia;Obligatorio;3;TMS
+EF001;1C;ESO;Educacion Fisica;Obligatorio;3;PLH
+LL001;1C;ESO;Lengua Castellana y Literatura;Obligatorio;4;ATT
+MA001;1C;ESO;Matematicas;Obligatorio;4;CTS
+MU001;1C;ESO;Musica;Obligatorio;3;EGM
+IN001;1C;ESO;Primera Lengua Extranjera-Ingles;Obligatorio;4;GVR
+FR001;1C;ESO;Segunda Lengua Extranjera-Frances;Obligatorio;2;ALR
+OD001;1C;ESO;Oratoria y Debate;Optativa;2;PGR
+CC001;1C;ESO;Cultura Clasica;Optativa;2;TMS
+CR001;1C;ESO;Computacion y Robotica;Optativa;2;ASD
+TT001;1C;ESO;Proyecto interdisciplinar: Taller de Teatro;Optativa;2;PGR
+FQ002;2A;ESO;Fisica y Quimica;Obligatorio;3;FGM
+GH002;2A;ESO;Geografia e Historia;Obligatorio;3;TMS
+EF002;2A;ESO;Educacion Fisica;Obligatorio;2;PLH
+EP002;2A;ESO;Educacion Plastica, Visual y Audiovisual;Obligatorio;2;LSR
+LL002;2A;ESO;Lengua Castellana y Literatura;Obligatorio;4;ATT
+MA002;2A;ESO;Matematicas;Obligatorio;4;CTS
+MU002;2A;ESO;Musica;Obligatorio;2;EGM
+TE002;2A;ESO;Tecnologia;Obligatorio;3;ASD
+IN002;2A;ESO;Primera Lengua Extranjera-Ingles;Obligatorio;3;GVR
+FR002;2A;ESO;Segunda Lengua Extranjera-Frances;Optativa;2;ALR
+CS002;2A;ESO;Cambios sociales y genero;Optativa;2;FAD
+CC002;2A;ESO;Cultura Clasica;Optativa;2;TMS
+CV002;2A;ESO;Ciencias para la vida cotidiana;Optativa;2;FAD
+FQ002;2B;ESO;Fisica y Quimica;Obligatorio;3;FGM
+GH002;2B;ESO;Geografia e Historia;Obligatorio;3;TMS
+EF002;2B;ESO;Educacion Fisica;Obligatorio;2;PLH
+EP002;2B;ESO;Educacion Plastica, Visual y Audiovisual;Obligatorio;2;LSR
+LL002;2B;ESO;Lengua Castellana y Literatura;Obligatorio;4;ATT
+MA002;2B;ESO;Matematicas;Obligatorio;4;CTS
+MU002;2B;ESO;Musica;Obligatorio;2;EGM
+TE002;2B;ESO;Tecnologia;Obligatorio;3;ASD
+IN002;2B;ESO;Primera Lengua Extranjera-Ingles;Obligatorio;3;GVR
+FR002;2B;ESO;Segunda Lengua Extranjera-Frances;Optativa;2;ALR
+CS002;2B;ESO;Cambios sociales y genero;Optativa;2;FAD
+CC002;2B;ESO;Cultura Clasica;Optativa;2;TMS
+CV002;2B;ESO;Ciencias para la vida cotidiana;Optativa;2;FAD
+FQ002;2C;ESO;Fisica y Quimica;Obligatorio;3;FGM
+GH002;2C;ESO;Geografia e Historia;Obligatorio;3;TMS
+EF002;2C;ESO;Educacion Fisica;Obligatorio;2;PLH
+EP002;2C;ESO;Educacion Plastica, Visual y Audiovisual;Obligatorio;2;LSR
+LL002;2C;ESO;Lengua Castellana y Literatura;Obligatorio;4;ATT
+MA002;2C;ESO;Matematicas;Obligatorio;4;CTS
+MU002;2C;ESO;Musica;Obligatorio;2;EGM
+TE002;2C;ESO;Tecnologia;Obligatorio;3;ASD
+IN002;2C;ESO;Primera Lengua Extranjera-Ingles;Obligatorio;3;GVR
+FR002;2C;ESO;Segunda Lengua Extranjera-Frances;Optativa;2;ALR
+CS002;2C;ESO;Cambios sociales y genero;Optativa;2;FAD
+CC002;2C;ESO;Cultura Clasica;Optativa;2;TMS
+CV002;2C;ESO;Ciencias para la vida cotidiana;Optativa;2;FAD
+BG003;3A;ESO;Biologia y Geologia;Obligatorio;2;HCM
+FQ003;3A;ESO;Fisica y Qumica;Obligatorio;3;FGM
+GH003;3A;ESO;Geografia e Historia;Obligatorio;3;LLP
+EF003;3A;ESO;Educacion Fisica;Obligatorio;2;PLH
+LL003;3A;ESO;Lengua Castellana y Literatura;Obligatorio;4;ATT
+IN003;3A;ESO;Primera Lengua Extranjera-Ingles;Obligatorio;4;GVR
+EC003;3A;ESO;Educacion para la ciudadania;Obligatorio;1;LSR
+TE003;3A;ESO;Tecnologia;Obligatorio;3;ASD
+FR003;3A;ESO;Segunda Lengua Extranjera-Frances;Optativa;2;ALR
+OD003;3A;ESO;Oratoria y Debate;Optativa;2;PGR
+MU003;3A;ESO;Musica;Optativa;2;EGM
+CC003;3A;ESO;Cultura Clasica;Optativa;2;FAD
+PI003;3A;ESO;Proyecto interdisciplinar: Taller de Podcast y radio on-line;Optativa;2;PGR
+BG003;3B;ESO;Biologia y Geologia;Obligatorio;2;HCM
+FQ003;3B;ESO;Fisica y Qumica;Obligatorio;3;FGM
+GH003;3B;ESO;Geografia e Historia;Obligatorio;3;LLP
+EF003;3B;ESO;Educacion Fisica;Obligatorio;2;PLH
+LL003;3B;ESO;Lengua Castellana y Literatura;Obligatorio;4;ATT
+IN003;3B;ESO;Primera Lengua Extranjera-Ingles;Obligatorio;4;GVR
+EC003;3B;ESO;Educacion para la ciudadania;Obligatorio;1;LSR
+TE003;3B;ESO;Tecnologia;Obligatorio;3;ASD
+FR003;3B;ESO;Segunda Lengua Extranjera-Frances;Optativa;2;ALR
+OD003;3B;ESO;Oratoria y Debate;Optativa;2;PGR
+MU003;3B;ESO;Musica;Optativa;2;EGM
+CC003;3B;ESO;Cultura Clasica;Optativa;2;FAD
+PI003;3B;ESO;Proyecto interdisciplinar: Taller de Podcast y radio on-line;Optativa;2;PGR
+BG003;3C;ESO;Biologia y Geologia;Obligatorio;2;HCM
+FQ003;3C;ESO;Fisica y Qumica;Obligatorio;3;FGM
+GH003;3C;ESO;Geografia e Historia;Obligatorio;3;LLP
+EF003;3C;ESO;Educacion Fisica;Obligatorio;2;PLH
+LL003;3C;ESO;Lengua Castellana y Literatura;Obligatorio;4;ATT
+IN003;3C;ESO;Primera Lengua Extranjera-Ingles;Obligatorio;4;GVR
+EC003;3C;ESO;Educacion para la ciudadania;Obligatorio;1;LSR
+TE003;3C;ESO;Tecnologia;Obligatorio;3;ASD
+FR003;3C;ESO;Segunda Lengua Extranjera-Frances;Optativa;2;ALR
+OD003;3C;ESO;Oratoria y Debate;Optativa;2;PGR
+MU003;3C;ESO;Musica;Optativa;2;EGM
+CC003;3C;ESO;Cultura Clasica;Optativa;2;FAD
+PI003;3C;ESO;Proyecto interdisciplinar: Taller de Podcast y radio on-line;Optativa;2;PGR
+LL004;4A;ESO;Lengua Castellana y Literatura;Obligatorio;3;ATT
+IN004;4A;ESO;Primera Lengua Extranjera-Ingles;Obligatorio;4;GVR
+GH004;4A;ESO;Geografia e Historia;Obligatorio;3;EDS
+EF004;4A;ESO;Educacion Fisica;Obligatorio;2;PLH
+BG004;4A;ESO;Biologia;Obligatorio;3;HCM
+FQ004;4A;ESO;Fisica y Qumica;Obligatorio;3;FGM
+MA004;4A;ESO;Matematicas Academicas;Obligatorio;4;ATC
+LA004;4A;ESO;Latin;Obligatorio;3;HJB
+EM004;4A;ESO;Economia;Obligatorio;3;MSA
+EP004;4A;ESO;Educacion Plastica, Visual y Audiovisual;Optativa;3;LSR
+CC004;4A;ESO;Cultura Clasica;Optativa;3;VCT
+IF004;4A;ESO;Informatica;Optativa;3;JMA
+CI004;4A;ESO;Cultura Cientifica;Optativa;3;ATC
+FR004;4A;ESO;Segunda Lengua Extranjera-Frances;Optativa;3;ALR
+FI004;4A;ESO;Filosofia;Optativa;3;CPR
+TE004;4A;ESO;Tecnologia;Optativa;3;ASD
+MU004;4A;ESO;Musica;Optativa;3;EGM
+MP004;4A;ESO;Matematicas Aplicadas ;Obligatoria;4;ATC
+TA004;4A;ESO;Tecnologia Aplicada;Obligatoria;3;ASD
+IA004;4A;ESO;Iniciacion a la actividad emprendedora y empresarial;Obligatoria;3;MSA
+LM004;4A;ESO;Refuerzo de Lengua y Matematicas;Obligatoria;3;ATC
+LL004;4B;ESO;Lengua Castellana y Literatura;Obligatorio;3;ATT
+IN004;4B;ESO;Primera Lengua Extranjera-Ingles;Obligatorio;4;GVR
+GH004;4B;ESO;Geografia e Historia;Obligatorio;3;EDS
+EF004;4B;ESO;Educacion Fisica;Obligatorio;2;PLH
+BG004;4B;ESO;Biologia;Obligatorio;3;HCM
+FQ004;4B;ESO;Fisica y Qumica;Obligatorio;3;FGM
+MA004;4B;ESO;Matematicas Academicas;Obligatorio;4;ATC
+LA004;4B;ESO;Latin;Obligatorio;3;HJB
+EM004;4B;ESO;Economia;Obligatorio;3;MSA
+EP004;4B;ESO;Educacion Plastica, Visual y Audiovisual;Optativa;3;LSR
+CC004;4B;ESO;Cultura Clasica;Optativa;3;VCT
+IF004;4B;ESO;Informatica;Optativa;3;JMA
+CI004;4B;ESO;Cultura Cientifica;Optativa;3;ATC
+FR004;4B;ESO;Segunda Lengua Extranjera-Frances;Optativa;3;ALR
+FI004;4B;ESO;Filosofia;Optativa;3;CPR
+TE004;4B;ESO;Tecnologia;Optativa;3;ASD
+MU004;4B;ESO;Musica;Optativa;3;EGM
+MP004;4B;ESO;Matematicas Aplicadas ;Obligatoria;4;ATC
+TA004;4B;ESO;Tecnologia Aplicada;Obligatoria;3;ASD
+IA004;4B;ESO;Iniciacion a la actividad emprendedora y empresarial;Obligatoria;3;MSA
+LM004;4B;ESO;Refuerzo de Lengua y Matematicas;Obligatoria;3;ATC
+LL004;4C;ESO;Lengua Castellana y Literatura;Obligatorio;3;ATT
+IN004;4C;ESO;Primera Lengua Extranjera-Ingles;Obligatorio;4;GVR
+GH004;4C;ESO;Geografia e Historia;Obligatorio;3;EDS
+EF004;4C;ESO;Educacion Fisica;Obligatorio;2;PLH
+BG004;4C;ESO;Biologia;Obligatorio;3;HCM
+FQ004;4C;ESO;Fisica y Qumica;Obligatorio;3;FGM
+MA004;4C;ESO;Matematicas Academicas;Obligatorio;4;ATC
+LA004;4C;ESO;Latin;Obligatorio;3;HJB
+EM004;4C;ESO;Economia;Obligatorio;3;MSA
+EP004;4C;ESO;Educacion Plastica, Visual y Audiovisual;Optativa;3;LSR
+CC004;4C;ESO;Cultura Clasica;Optativa;3;VCT
+IF004;4C;ESO;Informatica;Optativa;3;JMA
+CI004;4C;ESO;Cultura Cientifica;Optativa;3;ATC
+FR004;4C;ESO;Segunda Lengua Extranjera-Frances;Optativa;3;ALR
+FI004;4C;ESO;Filosofia;Optativa;3;CPR
+TE004;4C;ESO;Tecnologia;Optativa;3;ASD
+MU004;4C;ESO;Musica;Optativa;3;EGM
+MP004;4C;ESO;Matematicas Aplicadas ;Obligatoria;4;ATC
+TA004;4C;ESO;Tecnologia Aplicada;Obligatoria;3;ASD
+IA004;4C;ESO;Iniciacion a la actividad emprendedora y empresarial;Obligatoria;3;MSA
+LM004;4C;ESO;Refuerzo de Lengua y Matematicas;Obligatoria;3;ATC
