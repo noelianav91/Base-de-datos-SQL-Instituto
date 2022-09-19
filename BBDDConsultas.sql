@@ -28,7 +28,7 @@ FROM Asignatura LEFT JOIN Matricula ON Asignatura.idAsignatura = Matricula.idAsi
 GROUP BY Asignatura.Nombre
 HAVING Alumnos = 0;
 
-# 5. Obtenemos el número de Alumnos de 4 de la ESO que tienen que recuperar alguna asignatura y ordenamos el número de alumnos suspensos de forma descendiente
+# 5. Obtenemos el número de Alumnos de 4 de la ESO que tienen que recuperar alguna asignatura y ordenamos el número de alumnos suspensos de forma descendente
 SELECT Nombre, COUNT(idAlumno) AS AlumnosSuspensos
 FROM Asignatura INNER JOIN Matricula ON Asignatura.idAsignatura = Matricula.idAsignatura
 WHERE NotaMedia < 5.00 AND CURSO = "4A" AND "4B" AND "4C"
