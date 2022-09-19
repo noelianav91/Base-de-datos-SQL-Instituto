@@ -18,3 +18,22 @@ Los **alumnos** pueden estar matriculados en varias asignaturas siempre que sean
 
 En primer lugar para saber como vamos a estructurar la base de datos y las tablas que vamos a necesitar haremos un diagrama con las entidades, sus atributos y las relaciones de cada una de ellas. 
 
+## 3. Consultas 
+
+✅ Número de alumnos, carácter de las asignaturas y nota media, mínima y máxima de la nota media de los tres trimestres ordenados en primer lugar por Curso de forma ascendente y después por Nota Media de forma descendente.
+
+✅ Asignaturas con nota media inferior a 5.
+
+✅ Mostramos aquellos alumnos que tienen una media superior a 8, y lo ordenamos por nota media de forma descendiente.
+
+✅ Obtenemos aquellas asignaturas que no tienen ningún alumno matriculado.
+
+✅ Obtenemos el número de Alumnos de 4 de la ESO que tienen que recuperar alguna asignatura y ordenamos el número de alumnos suspensos de forma descendiente.
+
+✅ En la anterior consulta fueron 10 alumnos los que suspendieron Matemáticas Académicas. Queremos saber que alumnos han sido y con qué nota han suspendido la asignatura.
+
+✅ Queremos conocer cuáles son los 10 profesores con mayor nota media en las asignaturas que imparten.
+
+✅ Queremos conocer cuáles son los mejores alumnos de 3 de la ESO que han sacado un 10.
+
+
