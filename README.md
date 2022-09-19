@@ -24,11 +24,11 @@ En primer lugar para saber como vamos a estructurar la base de datos y las tabla
 
 ✅ Asignaturas con nota media inferior a 5.
 
-✅ Mostramos aquellos alumnos que tienen una media superior a 8, y lo ordenamos por nota media de forma descendiente.
+✅ Mostramos aquellos alumnos que tienen una media superior a 8, y lo ordenamos por nota media de forma descendente.
 
 ✅ Obtenemos aquellas asignaturas que no tienen ningún alumno matriculado.
 
-✅ Obtenemos el número de Alumnos de 4 de la ESO que tienen que recuperar alguna asignatura y ordenamos el número de alumnos suspensos de forma descendiente.
+✅ Obtenemos el número de Alumnos de 4 de la ESO que tienen que recuperar alguna asignatura y ordenamos el número de alumnos suspensos de forma descendente.
 
 ✅ En la anterior consulta fueron 10 alumnos los que suspendieron Matemáticas Académicas. Queremos saber que alumnos han sido y con qué nota han suspendido la asignatura.
 
