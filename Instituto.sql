@@ -83,7 +83,7 @@ FIELDS TERMINATED BY ';'
 LINES terminated by '\n'
 ignore 1 rows;
 
-SELECT * FROM MATRICULA;
+
 
 
 
