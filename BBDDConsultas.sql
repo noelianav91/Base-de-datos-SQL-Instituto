@@ -58,7 +58,7 @@ SELECT Curso, Asignatura.Nombre, CONCAT(Alumno.Nombre," ",Apellido1," ",Apellido
 FROM Matricula 
 INNER JOIN Alumno ON Alumno.idAlumno = Matricula.idAlumno
 INNER JOIN Asignatura ON Asignatura.idAsignatura = Matricula.idAsignatura
-WHERE NotaMedia = (SELECT MAX(NotaMedia) FROM Matricula) AND Curso = "3A" AND "3B" AND "4C"
+WHERE NotaMedia = (SELECT MAX(NotaMedia) FROM Matricula) AND Curso = "3A" AND "3B" AND "3C"
 ORDER BY Asignatura.Nombre ASC;
 
 
