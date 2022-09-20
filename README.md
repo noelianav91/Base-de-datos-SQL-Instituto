@@ -14,11 +14,21 @@ Los **alumnos** pueden estar matriculados en varias asignaturas siempre que sean
 
 # Pasos a seguir para realizar el diseño de la base de datos
 
-## 1. Diseño conceptual ([BBDD Diseño conceptual.pdf])
+## 1. Diseño conceptual (BBDD Diseño conceptual.pdf)
 
 En primer lugar para saber como vamos a estructurar la base de datos y las tablas que vamos a necesitar haremos un diagrama con las entidades, sus atributos y las relaciones de cada una de ellas. 
 
-## 3. Consultas 
+## 2. Diagrama de tablas (BBDDDiagrama.png)
+
+En segundo lugar definimos la estructura de las tablas en un modelo relacional.
+
+## 3. Creación de la base de datos, las tablas y la carga de datos. (BBDDInstituto.sql)
+
+Mediante código SQL crearemos toda la estructura que hemos diseñado en los anteriores puntos. La carga de los datos la haremos de forma manual con las tablas de Profesor, Curso e Impartir y mediante la carga de ficheros cargaremos las tablas Alumnos, Contacto Alumnos, Contacto Profesores, Matricula y Asignatura.
+
+## 4. Consultas (BBDDConsultas.sql)
+
+Las consultas que vamos a realizar serán:
 
 ✅ Número de alumnos, carácter de las asignaturas y nota media, mínima y máxima de la nota media de los tres trimestres ordenados en primer lugar por Curso de forma ascendente y después por Nota Media de forma descendente.
 
