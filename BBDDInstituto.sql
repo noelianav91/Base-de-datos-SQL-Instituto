@@ -143,6 +143,12 @@ INSERT INTO Curso VALUES("4A","ESO","17","ALR");
 INSERT INTO Curso VALUES("4B","ESO","17","PGR");
 INSERT INTO Curso VALUES("4C","ESO","17","ASD");
 
+LOAD DATA INFILE '/Base de datos Secundaria/Asignatura.csv'
+INTO TABLE Asignatura
+FIELDS TERMINATED BY ';'
+LINES terminated by '\n'
+ignore 1 rows;
+
 LOAD DATA INFILE '/Base de datos Secundaria/Matricula.csv'
 INTO TABLE Matricula
 FIELDS TERMINATED BY ';'
