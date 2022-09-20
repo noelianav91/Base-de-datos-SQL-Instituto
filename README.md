@@ -14,7 +14,7 @@ Los **alumnos** pueden estar matriculados en varias asignaturas siempre que sean
 
 # Pasos a seguir para realizar el diseño de la base de datos
 
-## 1. Diseño conceptual
+## 1. Diseño conceptual ([BBDD Diseño conceptual.pdf])
 
 En primer lugar para saber como vamos a estructurar la base de datos y las tablas que vamos a necesitar haremos un diagrama con las entidades, sus atributos y las relaciones de cada una de ellas. 
 
